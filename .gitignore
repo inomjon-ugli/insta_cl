@@ -1,0 +1,22 @@
+# Maxfiy fayllar
+.env
+
+# Python fayllari
+__pycache__/
+*.py[cod]
+
+# Django migration fayllari
+**/migrations/
+!**/migrations/__init__.py
+
+# SQLite database
+db.sqlite3
+
+# Virtual environment
+.venv/
+
+# PyCharm fayllari
+.idea/
+
+# MacOS fayli
+.DS_Store
